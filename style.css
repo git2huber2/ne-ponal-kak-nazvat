@@ -44,3 +44,12 @@ h1{
 h2{
     text-shadow: 10px 5px 5px gray;
 }
+.sociall {
+    display: flex;
+    justify-content: right;
+    position: absolute;
+    top: 250px; left: 650px;
+}
+ol{
+  text-align: left;
+}
